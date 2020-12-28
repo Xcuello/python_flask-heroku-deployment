@@ -1,1 +1,1 @@
-web: gunicorn heroku-deployment:app
+web: gunicorn flask-webserver-test:app
